@@ -1,0 +1,11 @@
+"""author""";"""title""";"""danceability""";"""energy""";"""loudness""";"""speechiness""";"""acousticness""";"""liveness""";"""valence"""
+Luis Fonsi;Echame La Culpa;0.726;0.889;-3.655;0.0429;0.0328;0.0925;0.649
+Imagine Dragons;Thunder;0.605;0.822;-4.833;0.0438;0.00671;0.147;0.288
+Sarayma y Los Rebujitos; Quiero ser; 0.589; 0.715;-3.507; 0.0429; 0.592; 0.0659; 0.448
+Sam Smith;Too Good At Goodbyes;0.698;0.375;-8.279;0.0491;0.652;0.173;0.534
+SYNLAKROSS; Fatal Frame; 0.481; 0.935;-4.848; 0.0335; 0.00000223; 0.366; 0.771
+Billie Ellish;Bad Guy; 0.669; 0.739;-5.872; 0.0329; 0.0138; 0.136; 0.764
+Lady Gaga;Shallow;0.57;0.39;-6;0.3;0.37;0.23;0.32
+Shakira;Clandestino;0.766;0.822;-4.126;0.16;0.39;0.349;0.881
+Alex Ubago; Miranos; 0.499; 0.762;-5.658; 0.0357; 0.212; 0.0923; 0.286
+Natti Natasha;Criminal;0.814;0.813;-3.023;0.0561;0.03;0.255;0.839

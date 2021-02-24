@@ -1,0 +1,31 @@
+"""author""";"""title""";"""danceability""";"""energy""";"""loudness""";"""speechiness""";"""acousticness""";"""liveness""";"""valence"""
+Elefantes; Duele; 0.243; 0.535; -7.74; 0.0335; 0.0507; 0.102; 0.452
+Feder feat. Lyse; Goodbye; 0.832; 0.876;-5.124; 0.205; 0.173; 0.162; 0.635
+Five Finger Death Punch; Wrong Side Of Heaven; 0.481; 0.932;-4.592; 0.083; 0.00721; 0.337; 0.543
+Ed Sheeran;Shape of You;0.825;0.652;-3.183;0.0802;0.581;0.0931;0.931
+KELDARK feat. SynlakrosS (Patricia Pons); Fear the Fear; 0.386; 0.883;-5.663; 0.0549; 0.000282; 0.131; 0.186
+Leiva; No Te Preocupes por Mi; 0.313; 0.608;-5.746; 0.0367; 0.114; 0.104; 0.341
+Imagine Dragons;Believer;0.776;0.78;-4.374;0.128;0.0622;0.081;0.666
+Morat feat. Aitana; Presiento; 0.711; 0.727; -3.15; 0.162; 0.168; 0.296; 0.465
+Nicky Jam;X;0.595;0.773;-4.736;0.0549;0.0364;0.334;0.711
+Supersubmarina; En Mis Venas; 0.432; 0.92;-5.249; 0.0359; 0.00241; 0.177; 0.522
+Shawn Mendes;In My Blood;0.622;0.712;-7.321;0.066;0.0573;0.13;0.487
+Miss Caffeina; Mira como vuelo; 0.598; 0.886;-5.607; 0.0342; 0.00121; 0.545; 0.766
+Eminem;River (feat. Ed Sheeran);0.748;0.749;-5.916;0.516;0.142;0.0713;0.659
+Maroon 5;Girls Like You (feat. Cardi B);0.851;0.541;-6.825;0.0505;0.568;0.13;0.448
+Zoe feat. Bunbury; Nada; 0.611; 0.81;-5.993; 0.0263; 0.132; 0.189; 0.549
+Portugal. The Man;Feel It Still;0.801;0.795;-5.115;0.0504;0.0417;0.0717;0.754
+Selena Gomez;Wolves;0.72;0.807;-4.59;0.0432;0.129;0.183;0.305
+Pablo Alboran; Por fin; 0.612; 0.409; -9.85; 0.0362; 0.418; 0.149; 0.254
+Sofia Reyes;1, 2, 3 (feat. Jason Derulo & De La Ghetto);0.792;0.895;-3.112;0.0589;0.165;0.0501;0.794
+The Weeknd;Call Out My Name;0.489;0.598;-4.929;0.036;0.218;0.35;0.172
+Ed Sheeran;I Don't Care (with Justin Bieber);0.80;0.68;-5;0.4;0.9;0.9;0.84
+Jonas Brothers;Sucker;0.84;0.73;-5;0.6;0.4;0.11;0.95
+Kygo;Higher Love;0.69;0.68;-7;0.3;0.2;0.10;0.40
+Martin Garrix;Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy);0.66;0.72;-7;0.6;0.18;0.14;0.32
+Post Malone;Sunflower - Spider-Man: Into the Spider-Verse;0.76;0.48;-6;0.5;0.56;0.7;0.91
+ROSALIA;Con Altura;0.88;0.69;-4;0.12;0.39;0.5;0.75
+Shawn Mendes;Senorita;0.76;0.55;-6;0.3;0.4;0.8;0.75
+Taylor Swift;You Need To Calm Down;0.77;0.68;-6;0.5;0.1;0.7;0.73
+Highly Suspect; Lydia; 0.417; 0.706;-4.652; 0.0945; 0.00933; 0.474; 0.512
+Feder feat. Alex Aiono; Lordy; 0.716; 0.713;-6.246; 0.0365; 0.078; 0.0563; 0.415

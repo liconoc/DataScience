@@ -1,2 +1,1 @@
-## Taller de Ciencia de Datos (Foro Lluis Vives 2017)
-
+## Datos para el Taller de Ciencia de Datos 
