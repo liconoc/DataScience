@@ -1,4 +1,4 @@
-"""author""";"""title""";"""danceability""";"""energy""";"""loudness""";"""speechiness""";"""acousticness""";"""liveness""";"""valence"""
+author;title;danceability;energy;loudness;speechiness;acousticness;liveness;valence
 Elefantes; Duele; 0.243; 0.535; -7.74; 0.0335; 0.0507; 0.102; 0.452
 Feder feat. Lyse; Goodbye; 0.832; 0.876;-5.124; 0.205; 0.173; 0.162; 0.635
 Five Finger Death Punch; Wrong Side Of Heaven; 0.481; 0.932;-4.592; 0.083; 0.00721; 0.337; 0.543
